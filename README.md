@@ -1,4 +1,9 @@
-# Welcome to your Expo app 👋
+# Weather Forecast  app 👋
+
+
+![Simulator Screenshot - IPhone 16 Pro ios](https://github.com/user-attachments/assets/cc5efbd0-fab2-459d-ae07-81eaf95ae7c1)
+
+
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
